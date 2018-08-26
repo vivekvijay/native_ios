@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App07.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>79971E53B468A7869396FC6F86545762CEAACD55</string>
+				<key>dateExpires</key>
+				<string>8/8/19</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>434YVCYGK5.com.hubcooridinator.exodus</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>434YVCYGK5</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>434YVCYGK5.com.hubcooridinator.exodus</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>App07.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>6ae1de37-2bda-4140-9e88-120c597035ca</string>
+				<key>name</key>
+				<string>ExodusProfileDev</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>434YVCYGK5</string>
+				<key>name</key>
+				<string>Alan Harlan</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
